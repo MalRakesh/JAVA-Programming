@@ -6,3 +6,7 @@ public class Array3 {
         System.out.println(num.length);
     }
 }
+
+
+
+
