@@ -3,7 +3,7 @@ public class Parameters {
         System.out.println(Course + " is a Coding Skills.");
     }
     public static void main(String[] args) {
-        System.out.println("*** JAVA Parameters Concept ***");
+        System.out.println("*** JAVA Method Parameters Concept ***");
         myMethod("JAVA");
         myMethod("Python");
         myMethod("C Programming");
