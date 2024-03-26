@@ -1,4 +1,5 @@
 public class MethodOverloading {
+    // Method overloading is a multiple methods can have the same name with different parameters
     static int myMethodInt(int x,int y){
         return x + y;
     }
