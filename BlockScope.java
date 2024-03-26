@@ -1,4 +1,4 @@
-public class Scope {
+public class BlockScope {
     public static void main(String[] args) {
         // A block of code refers to all of the code between curly braces {}
         {   // block code starts here
