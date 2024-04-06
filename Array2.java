@@ -11,7 +11,3 @@ public class Array2 {
     }
 }
 
-
-
-
-
