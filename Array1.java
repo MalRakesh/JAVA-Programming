@@ -7,8 +7,3 @@ public class Array1 {
         System.out.println(Cars[0]);
     }
 }
-
-
-
-
-
