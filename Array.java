@@ -9,7 +9,3 @@ public class Array {
         System.out.println(a[4]);
     }
 }
-
-
-
-
