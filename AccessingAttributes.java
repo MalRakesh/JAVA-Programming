@@ -9,10 +9,3 @@ public class AccessingAttributes {
         System.out.println(obj1.a);
     }
 }
-
-
-
-
-
-
-
