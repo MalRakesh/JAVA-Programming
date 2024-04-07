@@ -11,8 +11,3 @@ public class ClassMethod {
         Method1();
     }
 }
-
-
-
-
-
