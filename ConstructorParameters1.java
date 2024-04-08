@@ -15,7 +15,3 @@ public class ConstructorParameters1 {
 
     }
 }
-
-
-
-
