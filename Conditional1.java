@@ -10,5 +10,3 @@ public class Conditional1 {
         }
     }
 }
-
-
