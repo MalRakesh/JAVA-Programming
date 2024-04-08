@@ -12,8 +12,3 @@ public class Constructor {
         System.out.println(obj1.a);
     }
 }
-
-
-
-
-
