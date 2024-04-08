@@ -12,5 +12,3 @@ public class Datatypes {
         System.out.println("Boolean = " + e);
     }
 }
-
-
