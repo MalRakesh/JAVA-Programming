@@ -11,8 +11,3 @@ public class ConstructorParameters {
         System.out.println(obj1.x);
     }
 }
-
-
-
-
-
