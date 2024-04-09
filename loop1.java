@@ -10,6 +10,3 @@ public class loop1 {
         while(i<5);
     }
 }
-
-
-
