@@ -6,7 +6,3 @@ public class MathFunction1 {
         System.out.println(Math.min(74, 32));
     }
 }
-
-
-
-
