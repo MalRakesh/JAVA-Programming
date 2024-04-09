@@ -6,14 +6,3 @@ public class MathFunction {
           System.out.println(Math.max(37, 13));
         }
 }
-
-
-
-
-
-
-
-
-
-
-
