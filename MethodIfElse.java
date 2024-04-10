@@ -12,5 +12,3 @@ public class MethodIfElse {
         myAge(21);
     }
 }
-
-
