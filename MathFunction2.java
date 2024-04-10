@@ -6,6 +6,3 @@ public class MathFunction2 {
         System.out.println(Math.sqrt(81));
     }
 }
-
-
-
