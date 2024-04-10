@@ -14,7 +14,3 @@ public class MethodOverloading {
         System.out.println("Double : " + num2);
     }
 }
-
-
-
-
