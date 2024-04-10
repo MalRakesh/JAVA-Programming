@@ -8,10 +8,3 @@ public class ModifyAttributes {
         System.out.println(obj1.a);
     }
 }
-
-
-
-
-
-
-
