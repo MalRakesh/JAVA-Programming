@@ -7,9 +7,3 @@ public class MathFunction4 {
         System.out.println(a);
     }
 }
-
-
-
-
-
-
