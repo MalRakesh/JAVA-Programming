@@ -6,7 +6,3 @@ public class MathFunction3 {
         System.out.println(Math.abs(-27));
     }
 }
-
-
-
-
