@@ -7,10 +7,3 @@ public class MultiClass {
         System.out.println("MaxSpeed : " + maxSpeed + "kmph");
     }
 }
-
-
-
-
-
-
-
