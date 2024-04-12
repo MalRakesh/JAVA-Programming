@@ -10,6 +10,3 @@ public class MultidimensionalArray {
         System.out.println(num[2][4]); 
     }
 }
-
-
-
