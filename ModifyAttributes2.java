@@ -9,10 +9,3 @@ public class ModifyAttributes2 {
         System.out.println(obj3.y);
     }
 }
-
-
-
-
-
-
-
