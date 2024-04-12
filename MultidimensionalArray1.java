@@ -7,6 +7,3 @@ public class MultidimensionalArray1 {
         System.out.println(num[1][2]);
     }
 }
-
-
-
