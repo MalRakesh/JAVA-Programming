@@ -6,11 +6,3 @@ public class MultiClass1 {
         myCar.CarSpeed(489);
     }
 }
-
-
-
-
-
-
-
-
